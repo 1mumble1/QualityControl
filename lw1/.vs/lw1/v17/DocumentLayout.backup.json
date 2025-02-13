@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MRT47\\QualityControl\\lw1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0D1E7D-0469-41F3-AE6C-07F3DC570D63}|lw1_tests\\lw1_tests.pyproj|C:\\MRT47\\QualityControl\\lw1\\lw1_tests\\lw1_tests.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DB0D1E7D-0469-41F3-AE6C-07F3DC570D63}|lw1_tests\\lw1_tests.pyproj|solutionrelative:lw1_tests\\lw1_tests.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EE8362-54D2-48B3-A620-848B63B81DC9}|lw1\\lw1.pyproj|C:\\MRT47\\QualityControl\\lw1\\lw1\\lw1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03EE8362-54D2-48B3-A620-848B63B81DC9}|lw1\\lw1.pyproj|solutionrelative:lw1\\lw1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lw1.py",
+              "DocumentMoniker": "C:\\MRT47\\QualityControl\\lw1\\lw1\\lw1.py",
+              "RelativeDocumentMoniker": "lw1\\lw1.py",
+              "ToolTip": "C:\\MRT47\\QualityControl\\lw1\\lw1\\lw1.py",
+              "RelativeToolTip": "lw1\\lw1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-11T06:56:07.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lw1_tests.py",
+              "DocumentMoniker": "C:\\MRT47\\QualityControl\\lw1\\lw1_tests\\lw1_tests.py",
+              "RelativeDocumentMoniker": "lw1_tests\\lw1_tests.py",
+              "ToolTip": "C:\\MRT47\\QualityControl\\lw1\\lw1_tests\\lw1_tests.py",
+              "RelativeToolTip": "lw1_tests\\lw1_tests.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-11T07:29:22.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

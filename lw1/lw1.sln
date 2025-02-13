@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lw1", "lw1\lw1.pyproj", "{03EE8362-54D2-48B3-A620-848B63B81DC9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lw1_tests", "lw1_tests\lw1_tests.pyproj", "{DB0D1E7D-0469-41F3-AE6C-07F3DC570D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EE8362-54D2-48B3-A620-848B63B81DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EE8362-54D2-48B3-A620-848B63B81DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0D1E7D-0469-41F3-AE6C-07F3DC570D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0D1E7D-0469-41F3-AE6C-07F3DC570D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

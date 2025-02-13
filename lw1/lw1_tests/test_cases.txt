@@ -1,0 +1,28 @@
+5 5 5 equilateral triangle
+5 5 3 isosceles triangle
+5 3 5 isosceles triangle
+3 5 5 isosceles triangle
+3 4 5 simple triangle
+2 3 4 simple triangle
+1000000 1000000 1000000 equilateral triangle
+0.1 0.1 0.1 equilateral triangle
+2.5 3.5 4.5 simple triangle
+1 2 3 not triangle
+5 10 4 not triangle
+3 3 6 not triangle
+0.1 0.1 0.2 not triangle
+2 2 5 not triangle
+-2 3 4 unknown error
+0 5 5 unknown error
+a 3 4 unknown error
+5 5 unknown error
+3 4 5 6 unknown error
+'' 5 5 unknown error
+5$ 3 4 unknown error
+0 0 0 unknown error
+1e3 1e3 1e3 equilateral triangle
+1.7976931348623157e+308 1.7976931348623157e+308 1.7976931348623157e+308 equilateral triangle
+1.7976931348623157e+309 1.7976931348623157e+309 1.7976931348623157e+309 not triangle
+1 1 1 equilateral triangle
+0.1 0.2 0.3000001 not triangle
+ unknown error
