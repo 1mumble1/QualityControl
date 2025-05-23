@@ -26,3 +26,4 @@ a 3 4 unknown error
 1 1 1 equilateral triangle
 0.1 0.2 0.3000001 not triangle
  unknown error
+1 2 3 simple triangle
