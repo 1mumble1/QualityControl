@@ -1,0 +1,15 @@
+C:\MRT47\QualityControl\UnitTestLab\Order\bin\Debug\net8.0\Order.exe
+C:\MRT47\QualityControl\UnitTestLab\Order\bin\Debug\net8.0\Order.deps.json
+C:\MRT47\QualityControl\UnitTestLab\Order\bin\Debug\net8.0\Order.runtimeconfig.json
+C:\MRT47\QualityControl\UnitTestLab\Order\bin\Debug\net8.0\Order.dll
+C:\MRT47\QualityControl\UnitTestLab\Order\bin\Debug\net8.0\Order.pdb
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.AssemblyInfoInputs.cache
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.AssemblyInfo.cs
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.csproj.CoreCompileInputs.cache
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.sourcelink.json
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.dll
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\refint\Order.dll
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.pdb
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\Order.genruntimeconfig.cache
+C:\MRT47\QualityControl\UnitTestLab\Order\obj\Debug\net8.0\ref\Order.dll
